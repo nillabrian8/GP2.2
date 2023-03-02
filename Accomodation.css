@@ -1,0 +1,12 @@
+.Rooms{
+    position: relative;
+}
+
+body{
+    background-color: darkgoldenrod;
+}
+
+table{
+    width: 100%;
+    height: 100%;
+}
